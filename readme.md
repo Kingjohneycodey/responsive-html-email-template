@@ -21,7 +21,7 @@ You can use this [Email CSS Inliner](https://htmlemail.io/inline/) and then [sen
 
 * Copy all of email.html
 * Paste the HTML as the source into the inliner
-* Copy the HTML output and use this as the email template you send
+* Copy the HTML output and use this as the email template you send 
 
 ### Sending emails using a marketing service like Mailchimp?
 
